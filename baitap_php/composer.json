@@ -1,0 +1,15 @@
+{
+    "name": "hien/baitap",
+    "autoload": {
+        "psr-4": {
+            "Hien\\Baitap\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "hien",
+            "email": "thuhien33qt@gmail.com"
+        }
+    ],
+    "require": {}
+}

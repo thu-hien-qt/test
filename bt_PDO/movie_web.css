@@ -1,0 +1,67 @@
+
+.clear {
+    clear: both;
+}
+
+.hd {
+    background-color: rgb(30, 30, 30);
+}
+
+.icon {
+    width: 2.5em;
+    height: 2.5em;
+    float: left;
+}
+
+.genre {
+    float: left;
+    font-size: 1.5em;
+    font-weight: 700;
+    padding: 0 1em;
+    margin-top: 0.5em;
+}
+
+.user {
+    float: right;
+    padding: 0.7em;
+    width: 10em;
+    text-align: right;
+}
+
+div a:hover {
+    text-decoration: none;
+    color: rgb(39, 166, 73) !important;
+}
+
+div a:link {
+    color: white;
+    text-decoration: none;
+}
+
+div a:visited {
+    color: white;
+}
+
+table, td, th, tr {
+    border: solid 1px ;
+    border-collapse: collapse;
+}
+
+.table {
+    margin: 3em;
+}
+
+table a:hover {
+    color: blue;
+}
+
+.name {
+    color: white;
+}
+
+.log {
+    padding: 0 0.5em;
+    border: 1px solid white;
+    border-radius: 25px;
+    margin: 0 0.5em;
+}

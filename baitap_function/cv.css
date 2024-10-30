@@ -1,0 +1,88 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 100px;
+    text-align: justify;
+}
+
+.fab {
+    font-size: 30px;
+    color: black
+}
+
+a:link {
+    color: black;
+    text-decoration: none;
+}
+
+a:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.cl1 {
+    float: left;
+    width: 50%;
+}
+
+.cl2 {
+    float: right;
+    text-align: right;
+}
+
+.ri {
+    float: right;
+    width: 40%;
+    text-align: right;
+}
+
+.mi {
+    text-align: center;
+}
+
+.img {
+    float: left;
+    margin: 1em;
+    border-radius: 50%;
+    border: 2px solid;
+    color: rgb(225, 61, 89);
+    margin-bottom: 0%;
+}
+
+.main {
+    border-bottom: 2px dashed;
+    font-size: 40px;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+.ndc {
+    float: left;
+    width: 20%;
+    text-align: left;
+    margin-right: 2%;
+}
+
+.clear {
+    clear: both
+}
+
+.explain {
+    float: right;
+    width: 78%;
+}
+
+.nm {
+    font-size: 12px;
+    text-align: center;
+}
+
+span {
+    background-color: black;
+    color: blanchedalmond;
+    border-width: 1px;
+}
+
+.td {
+    text-transform: capitalize;
+    font-style: oblique;
+}
